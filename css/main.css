@@ -68,7 +68,6 @@ header h5 span {
 }
 
 #home h1 { 
-    text-transform: uppercase;
     font-size: 100px;
     text-align: center;
     color: #FFC52E;
@@ -139,17 +138,16 @@ header h5 span {
     line-height: 0%;
 }
 
-#portfolio p {
-    text-align: center;
-    font-size: 200px;
-    line-height: 10%;
-    color: #e6e6e6;
-    font-weight: 700;
-}
-
 #portfolio h4 {
     font-size: 30px;
     text-align: center;
+    line-height: 90%;
+}
+
+#portfolio p {
+    text-align: center;
+    color: #e6e6e6;
+    font-weight: 700;
 }
 
 #portfolio span {
